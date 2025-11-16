@@ -45,7 +45,10 @@ This data is collected **directly by Google**, not by us, and is governed by Goo
 
 # **3. How We Use the Information**
 
-We use automatically collected data solely for:
+The app itself does **not collect or store any personal data.**
+However, **third-party services (Google AdMob)** may automatically collect certain device information needed to show ads.
+
+Automatically collected data used solely for:
 
 * Delivering ads (personalized or non-personalized)
 * Frequency capping
