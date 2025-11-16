@@ -24,28 +24,22 @@ If you do not agree with this policy, please discontinue using the App.
 
 ---
 
-# **2. Information We Collect**
+# **2. Information Collected by Third-Party Services**
 
-## **2.1 Automatically Collected Data (via third-party services)**
+**The app itself does not collect, store, or process any personal data on its own servers.**
 
-The App does **not operate its own backend server** and does **not store personal data** on its own servers.
-However, third-party SDKs (e.g., Google AdMob) may automatically collect:
+However, because the app displays ads through **Google AdMob**, Google may automatically collect certain information required to deliver ads, prevent fraud, and comply with regulations.
+This may include:
 
-* Device identifiers (e.g., IDFA, AAID)
-* Advertiser identifiers
-* IP address (for fraud prevention)
-* Approximate location (e.g., country-level)
+* Device identifiers (IDFA, AAID)
+* Approximate location (country/region)
+* IP address (for fraud/security)
 * Interaction data with ads
-* Diagnostic & performance data
+* Diagnostics and performance data
 
-The App **does not** collect the following itself:
+This data is collected **directly by Google**, not by us, and is governed by Google’s Privacy Policy.
 
-* Names
-* Email addresses
-* Phone numbers
-* User-created content
-* Precise GPS location
-* Sensitive personal information
+**We do not receive, store, or access this data.**
 
 ---
 
