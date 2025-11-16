@@ -1,0 +1,188 @@
+# **Privacy Policy for “Path Up! No Cap!”**
+
+**Last updated:** *16-11-2025*
+**App Name:** Path Up! No Cap!
+**Developer / Publisher:** *Alertim OU*
+**Contact Email:** alertimou@gmail.com
+
+---
+
+# **1. Introduction**
+
+This Privacy Policy explains how **Path Up! No Cap!** (“the App”, “we”, “us”, “our”) collects, uses, and protects your information.
+We respect user privacy and comply with all applicable laws, including:
+
+* **GDPR** (European Union)
+* **UK GDPR** (United Kingdom)
+* **ePrivacy Directive**
+* **CCPA/CPRA** (California)
+* **COPPA** (Children’s Online Privacy Protection Act)
+* **Google AdMob / Google Ads Data Processing Terms**
+* **App Store and Google Play policies**
+
+If you do not agree with this policy, please discontinue using the App.
+
+---
+
+# **2. Information We Collect**
+
+## **2.1 Automatically Collected Data (via third-party services)**
+
+The App does **not operate its own backend server** and does **not store personal data** on its own servers.
+However, third-party SDKs (e.g., Google AdMob) may automatically collect:
+
+* Device identifiers (e.g., IDFA, AAID)
+* Advertiser identifiers
+* IP address (for fraud prevention)
+* Approximate location (e.g., country-level)
+* Interaction data with ads
+* Diagnostic & performance data
+
+The App **does not** collect the following itself:
+
+* Names
+* Email addresses
+* Phone numbers
+* User-created content
+* Precise GPS location
+* Sensitive personal information
+
+---
+
+# **3. How We Use the Information**
+
+We use automatically collected data solely for:
+
+* Delivering ads (personalized or non-personalized)
+* Frequency capping
+* Preventing fraud
+* Analytics through Google AdMob or associated Google services
+* Improving user experience and app stability
+
+**We do not:**
+
+* Sell personal information
+* Create user profiles
+* Combine data with other services
+* Use tracking outside the App
+
+---
+
+# **4. Advertising and Monetization**
+
+The App uses **Google AdMob** to show advertisements.
+Depending on your region:
+
+* **EEA / UK users** are shown a **GDPR-compliant consent form** via Google’s User Messaging Platform (UMP).
+* **iOS users outside EEA/UK** are shown an **IDFA (ATT) permission request**.
+* Ads may be *personalized* or *non-personalized* based on your consent.
+
+You may withdraw or change your consent at any time through the App’s privacy settings (if available) or via system settings (iOS/Android).
+
+Relevant Google privacy links:
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
+[https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites)
+
+---
+
+# **5. Consent Management**
+
+On first launch, the App may request consent for:
+
+* GDPR data usage (EEA/UK)
+* IDFA permission (iOS ATT)
+* Cookie and tracking decisions
+
+Consent is managed through:
+
+* **Google’s User Messaging Platform (UMP)**
+* The built-in **Apple ATT prompt** (iOS only)
+
+Ad delivery may be limited if consent is declined.
+
+---
+
+# **6. Data Storage & Security**
+
+Because the App does **not maintain a server**, we do not store or process any personal data directly.
+
+Third-party partners (e.g., Google) may store data according to their own policies.
+
+We implement the following safeguards:
+
+* No local storage of personal identifiers
+* Limited SDK-level collection only for ads
+* No external API transmissions by the App
+* Use of Google-certified consent management only
+
+---
+
+# **7. Children’s Privacy**
+
+The App is **not directed to children under 13** (or under 16 in the EU).
+We do not knowingly collect data from children.
+
+If you believe a child has provided personal data, contact us immediately so we can take necessary action.
+
+---
+
+# **8. Links to Third-Party Sites**
+
+The App may contain links to external services (e.g., ads).
+We are **not responsible** for the privacy practices of third-party websites or services.
+
+---
+
+# **9. User Rights**
+
+Depending on your jurisdiction, you may have rights including:
+
+* Access to your data
+* Deletion of your data
+* Opt-out of personalized ads
+* Correction of inaccurate information
+* Restrictions on processing
+* Data portability (GDPR)
+
+Requests can be made by contacting us at the email above.
+
+---
+
+# **10. Liability Limitations (Protection Clause)**
+
+To the maximum extent permitted by law:
+
+* We are **not liable for any damages**, losses, or claims resulting from misuse of the App.
+* The App is provided **“as is” without warranty** of any kind.
+* We are not responsible for:
+
+  * Third-party ad content
+  * Device incompatibility
+  * Connectivity issues
+  * User modification or unauthorized distribution of the App
+  * Errors caused by third-party SDKs
+
+Users agree **not to misuse the App**, including but not limited to:
+
+* Reverse engineering
+* Automated data extraction
+* Circumventing app logic
+* Attempting to manipulate ad systems
+
+Violations may result in termination of access.
+
+---
+
+# **11. Changes to This Policy**
+
+We may update this Privacy Policy at any time.
+Changes take effect immediately upon publication at the provided Privacy Policy URL.
+
+Users are responsible for reviewing the policy periodically.
+
+---
+
+# **12. Contact Us**
+
+For questions, requests, or legal inquiries, contact:
+**alertimou@gmail.com**
